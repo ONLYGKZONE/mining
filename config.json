@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "xmrpool.eu:9999",
-            "user": "4GacqN2pFYGa8VA8nujRRoGHhc6cAhdk9ecndiKPRXMn8CMGJiSFKoC5V1bvZvBbEwFohEWi76HCZQHM5qNBPeojF4am8xpcnfoJSNjGbk",
+            "user": "85FqSBgFKa5JePrWHaEvmihqiJz8HQi2mcVShZRzTa16Jwf5Bpxs91LFQFqRmfePb12e8akbXzeA8UFUoLypuDgJ1KCjbJg",
             "keepalive": true,
             "tls": true
         }
